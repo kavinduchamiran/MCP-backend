@@ -1,0 +1,13 @@
+utils/keys.js
+utils/cert.cer
+utils/key.p12
+utils/key.pem
+utils/cert.pem
+.idea
+node_modules
+*.DS_Store
+uploads/*
+pm2.json
+static
+utils/serviceAccountKey.json
+utils/mcp.json

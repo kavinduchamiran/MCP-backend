@@ -1,0 +1,5 @@
+{
+  "env": {
+    "GOOGLE_APPLICATION_CREDENTIALS": "/Users/kavinduchamiran/WebstormProjects/MCP-Backend/utils/mcp.json"
+  }
+}
